@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MDM管理器</string>
+    <string name="desc">该管理器适配于OPPO、GIONEE、ZTE、COOLPAD品牌定制机。</string>
+    <string name="replacemdm">替换>安装ForsuntechMDM</string>
+    <string name="replacemdmadmin">替换>安装ForsuntechMDM-ADMIN</string>
+    <string name="installemm">安装>安装MDM</string>
+    <string name="reboot_desc">重启>重启系统</string>
+    <string name="install">去安装</string>
+    <string name="reboot">去重启</string>
+
+</resources>
